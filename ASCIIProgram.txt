@@ -1,0 +1,28 @@
+package day1;
+
+public class Program5_ASCII {
+
+	public static void main(String[] args) {
+		
+		char alpha='A';
+		int value=alpha;
+		
+		char beta='a';
+		int value1=beta;
+		
+		char a=0;
+	    int value2=a;
+	    
+	    char z='@';
+	    int value3=z;
+	    
+		
+		System.out.println("ASCII CODE VALUE:" +value);
+		
+		System.out.println("ASCII CODE VALUE1:" +value1);
+		System.out.println("ASCII CODE VALUE2:" +value2);
+		System.out.println("ASCII CODE VALUE3:" +value3);
+
+	}
+
+}
