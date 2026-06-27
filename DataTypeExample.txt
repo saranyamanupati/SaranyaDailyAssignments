@@ -1,0 +1,22 @@
+package day1;
+
+public class Program4_AssignmentDatatype {
+
+	public static void main(String[] args) {
+		
+		int StudentID=101;
+		System.out.println("VALUE IS:" +StudentID);
+        
+		char Grade='A';
+		System.out.println(Grade);
+		
+		boolean passed =true;
+		System.out.println("passed");
+		
+		int age=18;
+		System.out.println("value is:" +age );
+		
+
+	}
+
+}
