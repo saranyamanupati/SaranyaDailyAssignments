@@ -1,0 +1,15 @@
+package day1;
+
+public class Program6_TypeCasting {
+
+	public static void main(String[] args) {
+			//assignemnet
+		double a=10.75;
+		int aInt=(int)a;
+		System.out.println(aInt);
+		System.out.println(a);
+		
+
+	}
+
+}
