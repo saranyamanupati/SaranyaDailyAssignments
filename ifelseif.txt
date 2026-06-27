@@ -1,0 +1,23 @@
+package day1;
+
+public class Program6_TypeCasting {
+
+	public static void main(String[] args) {
+		float height=162.5f;
+		int heightInt=(int)height;
+		System.out.println(heightInt);
+		
+		int age=32;
+		float ageFloat=age;
+		System.out.println(ageFloat);
+		
+		//assignemnet
+		double a=10.75;
+		int aInt=(int)a;
+		System.out.println(aInt);
+		System.out.println(a);
+		
+
+	}
+
+}
