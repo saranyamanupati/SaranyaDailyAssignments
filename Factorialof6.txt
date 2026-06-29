@@ -1,0 +1,15 @@
+package day3;
+
+public class Program4_Factorialof6 {
+
+	public static void main(String[] args) {
+		int num=6;
+		long factorial=1;
+		for(int i = 1;i<=num;i++)
+		{
+       factorial=factorial * i;
+       
+	}
+     System.out.println("Factorial of" +num + " is: " + factorial);
+	}
+}
